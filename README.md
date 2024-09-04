@@ -1,4 +1,5 @@
 # happy_demo
 this is my first git repository
-Auther - Anubhav pandey
 <br>
+Author - Anubhav (ram)
+
